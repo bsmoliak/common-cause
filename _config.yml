@@ -1,5 +1,5 @@
 # Set theme
-theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic
 
 # File excludes
 exclude:
@@ -17,6 +17,7 @@ plugins:
 - jekyll-default-layout
 - jekyll-feed
 - jemoji
+- jekyll-remote-theme
 
 # Site settings
 url: 'https://commoncause.is'
