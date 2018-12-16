@@ -23,30 +23,29 @@ plugins:
 url: 'https://commoncause.is'
 baseurl: ''
 title: 'Common Cause'
-description: 'A collaborative art project'
+description: 'a collaboration project'
 permalink: pretty
 logo: 'https://en.gravatar.com/userimage/37173417/a4270ccd26d8446e908f139b4eb2024a.png'
 
 # Pagination
 paginate: 5
-paginate_path: blog/page:num
+paginate_path: art/page:num
 
 # Header nav
 navigation_header:
   Home: /
   About: /about/
-  Blog: /blog/
+  Art: /art/
 
 # Footer nav
 navigation_footer:
-  Back to top: "#top"
+  Back to top: '#top'
 
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Art
     output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    description: ''
+    feature_text: ''
+    feature_image: 'https://picsum.photos/2560/600?image=866'
