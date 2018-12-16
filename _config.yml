@@ -25,7 +25,7 @@ baseurl: ''
 title: 'Common Cause'
 description: 'A collaborative art project'
 permalink: pretty
-logo: 'https://i.creativecommons.org/l/by/4.0/88x31.png'
+logo: 'https://en.gravatar.com/userimage/37173417/a4270ccd26d8446e908f139b4eb2024a.png'
 
 # Pagination
 paginate: 5
