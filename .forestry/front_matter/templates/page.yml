@@ -19,5 +19,5 @@ fields:
   description: Show the sidebar / aside
 pages:
 - 404.md
-- index.md
 - about.md
+- index.md
