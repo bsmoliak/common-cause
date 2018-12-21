@@ -1,7 +1,7 @@
 ---
 title: Common Cause
 layout: page
-feature_image: "/uploads/2013.09.21 abandoned train bridge.jpg"
+feature_image: "/uploads/20170127_235120.jpg"
 feature_text: ''
 aside: false
 
