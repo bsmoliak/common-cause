@@ -17,4 +17,3 @@ fields:
   description: Turn off comments (make sure to configure comments in _config.yml)
 pages:
 - _posts/2018-12-21-braes.md
-- _posts/2018-08-22-hello-world.md
