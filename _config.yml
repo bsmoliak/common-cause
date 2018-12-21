@@ -34,7 +34,6 @@ paginate_path: art/page:num
 # Header nav
 navigation_header:
   Home: /
-  About: /about/
   Art: /art/
 
 # Footer nav
@@ -48,4 +47,4 @@ collections:
     output: true
     description: ''
     feature_text: ''
-    feature_image: 'https://picsum.photos/2560/600?image=866'
+    feature_image: '/uploads/20170127_235120.jpg'
