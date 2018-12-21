@@ -1,7 +1,7 @@
 ---
 title: Common Cause
 layout: page
-feature_image: https://picsum.photos/1300/400?image=989
+feature_image: "/uploads/20151126_111840.jpg"
 feature_text: ''
 aside: false
 
