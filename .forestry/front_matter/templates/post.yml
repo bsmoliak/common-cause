@@ -3,13 +3,6 @@ label: post
 hide_body: false
 is_partial: false
 fields:
-- type: textarea
-  name: feature_text
-  label: Feature text
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
 - type: tag_list
   name: categories
   label: Categories
