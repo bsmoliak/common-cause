@@ -11,6 +11,7 @@ fields:
   name: aside
   label: Aside
   description: Show the sidebar / aside
+  default: false
 - type: boolean
   name: comments
   label: Comments
