@@ -35,6 +35,7 @@ paginate_path: art/page:num
 navigation_header:
   Home: /
   Art: /art/
+  Categories: /categories/
 
 # Footer nav
 navigation_footer:
