@@ -27,6 +27,11 @@ description: 'a collaboration project'
 permalink: pretty
 logo: 'https://en.gravatar.com/userimage/37173417/a4270ccd26d8446e908f139b4eb2024a.png'
 
+# Jekyll settings
+permalink: pretty
+excerpt_separator: <!-- more -->
+timezone: America/Chicago
+
 # Pagination
 paginate: 5
 paginate_path: art/page:num
@@ -52,3 +57,4 @@ collections:
     output: true
     description: ''
     feature_text: ''
+    feature_image: 'https://commoncause.s3.us-east-2.amazonaws.com/media/56fd36ab-commoncause.jpg'
