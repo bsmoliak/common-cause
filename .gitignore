@@ -1,2 +1,4 @@
 Gemfile.lock
 _site
+src/*.jpg
+src/cc_photo_archive.csv
