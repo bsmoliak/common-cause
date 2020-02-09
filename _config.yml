@@ -33,13 +33,17 @@ paginate_path: art/page:num
 
 # Header nav
 navigation_header:
-  Home: /
-  Art: /art/
-  Categories: /categories/
+- title: Home
+  url: /
+- title: Art
+  url: /art/
+- title: Categories
+  url: /categories/
 
 # Footer nav
 navigation_footer:
-  Back to top: '#top'
+- title: Back to top
+  url: '#top'
 
 # Collections
 collections:
