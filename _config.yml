@@ -10,6 +10,7 @@ exclude:
 # Set plugins
 plugins:
 - jekyll-sitemap
+- jekyll-menus
 - jekyll-mentions
 - jekyll-paginate
 - jekyll-seo-tag
@@ -48,4 +49,3 @@ collections:
     output: true
     description: ''
     feature_text: ''
-    feature_image: '/uploads/20170127_235120.jpg'
