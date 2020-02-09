@@ -42,11 +42,11 @@ navigation_header:
   url: /
 - title: Art
   url: /art/
-- title: Categories
-  url: /categories/
 
 # Footer nav
 navigation_footer:
+- title: Categories
+  url: /categories/
 - title: Back to top
   url: '#top'
 
