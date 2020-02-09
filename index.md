@@ -1,7 +1,7 @@
 ---
 title: Common Cause
 layout: page
-feature_image: "/uploads/20151126_111840.jpg"
+feature_image: https://s3-us-east-2.amazonaws.com/commoncause/8a6cb5aa-commoncause.jpg
 feature_text: ''
 aside: true
 
