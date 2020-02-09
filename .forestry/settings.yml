@@ -16,8 +16,8 @@ sections:
   - post
 upload_dir: media
 public_path: https://commoncause.s3.us-east-2.amazonaws.com
-front_matter_path: https://commoncause.s3.us-east-2.amazonaws.com
-use_front_matter_path: false
+front_matter_path: https://commoncause.s3.us-east-2.amazonaws.com/media
+use_front_matter_path: true
 file_template: ":filename:"
 instant_preview: false
 build:
