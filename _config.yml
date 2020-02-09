@@ -10,7 +10,6 @@ exclude:
 # Set plugins
 plugins:
 - jekyll-sitemap
-- jekyll-menus
 - jekyll-mentions
 - jekyll-paginate
 - jekyll-seo-tag
