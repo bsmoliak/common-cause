@@ -15,6 +15,12 @@ fields:
   name: comments
   label: Comments
   description: Turn off comments (make sure to configure comments in _config.yml)
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: Enter the post title here
 pages:
 - _posts/2018-12-21-braes.md
 - _posts/2020-02-09-do-you-sense-it?.md
