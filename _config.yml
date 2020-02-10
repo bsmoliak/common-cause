@@ -23,7 +23,7 @@ plugins:
 url: 'https://commoncause.is'
 baseurl: ''
 title: 'Common Cause'
-description: 'a collaboration project'
+description: 'a collaboration'
 permalink: pretty
 logo: 'https://en.gravatar.com/userimage/37173417/a4270ccd26d8446e908f139b4eb2024a.png'
 
